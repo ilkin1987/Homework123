@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\task3\task3\bin\Debug\netcoreapp3.1\task3.exe
+C:\Users\ACER\Desktop\task3\task3\bin\Debug\netcoreapp3.1\task3.deps.json
+C:\Users\ACER\Desktop\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.json
+C:\Users\ACER\Desktop\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\task3\task3\bin\Debug\netcoreapp3.1\task3.dll
+C:\Users\ACER\Desktop\task3\task3\bin\Debug\netcoreapp3.1\task3.pdb
+C:\Users\ACER\Desktop\task3\task3\obj\Debug\netcoreapp3.1\task3.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\task3\task3\obj\Debug\netcoreapp3.1\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfo.cs
+C:\Users\ACER\Desktop\task3\task3\obj\Debug\netcoreapp3.1\task3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\task3\task3\obj\Debug\netcoreapp3.1\task3.dll
+C:\Users\ACER\Desktop\task3\task3\obj\Debug\netcoreapp3.1\task3.pdb
+C:\Users\ACER\Desktop\task3\task3\obj\Debug\netcoreapp3.1\task3.genruntimeconfig.cache
